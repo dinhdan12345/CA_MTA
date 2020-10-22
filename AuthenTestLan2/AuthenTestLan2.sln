@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenTestLan2", "AuthenTestLan2\AuthenTestLan2.csproj", "{FCEDDF86-EA54-40CC-A37E-91BFC115EA45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEDDF86-EA54-40CC-A37E-91BFC115EA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEDDF86-EA54-40CC-A37E-91BFC115EA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEDDF86-EA54-40CC-A37E-91BFC115EA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEDDF86-EA54-40CC-A37E-91BFC115EA45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA62A813-6394-4FEF-8498-17C289E981EA}
+	EndGlobalSection
+EndGlobal
